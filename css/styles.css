@@ -1,0 +1,62 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+
+.navbar {
+  background-color:#cd88f2 !important;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color:rgba(255, 255, 255, 0.8) !important;
+}
+
+.navbarTitle{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    color:rgba(255, 255, 255, 0.8) !important;
+    padding-bottom: 0px;
+}
+
+.navbarSubtitle{
+    font-family: 'Titillium Web', sans-serif;
+    font-size:14px;
+    padding-top:0px;
+    position:relative;
+    top: -3px;
+}
+
+.messageStyle{
+    font-family: 'Titillium Web', sans-serif;
+    color:white;
+}
+
+.messageStyle2{
+    font-family: 'Titillium Web', sans-serif;
+    color:white;
+    font-size: 17px;
+}
+
+.bodyBackground{
+    background-image: linear-gradient(#6c109e,#d7a8f0,WHITE);
+    background-repeat: no-repeat;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+.btn {
+  margin-bottom: 10px;
+}
+
+.centerObj{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.PT50{
+    padding-top:50px
+}
